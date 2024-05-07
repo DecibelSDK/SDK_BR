@@ -6,7 +6,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "sdk-br",
+    name: "BridgeSDK",
     platforms: [
         .iOS(.v11)
     ],
@@ -16,9 +16,9 @@ let package = Package(
             targets: ["SDK_BR"]),
     ],
     targets: [
-            .binaryTarget(
-                name: "SDK_BR",
-                path: "SDK_BR.xcframework"
-            )
+        .binaryTarget(
+            name: "SDK_BR",
+            path: "SDK_BR.xcframework"
+        )
     ]
 )
