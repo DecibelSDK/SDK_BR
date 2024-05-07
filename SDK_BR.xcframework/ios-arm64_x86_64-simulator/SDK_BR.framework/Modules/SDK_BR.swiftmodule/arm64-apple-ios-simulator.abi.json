@@ -21,8 +21,8 @@
         "children": [
           {
             "kind": "Function",
-            "name": "message",
-            "printedName": "message(_:)",
+            "name": "messageGeneral",
+            "printedName": "messageGeneral(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -37,8 +37,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:6SDK_BR5SDKBRC7messageyySSFZ",
-            "mangledName": "$s6SDK_BR5SDKBRC7messageyySSFZ",
+            "usr": "s:6SDK_BR5SDKBRC14messageGeneralyySSFZ",
+            "mangledName": "$s6SDK_BR5SDKBRC14messageGeneralyySSFZ",
             "moduleName": "SDK_BR",
             "static": true,
             "declAttributes": [

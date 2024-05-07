@@ -9,7 +9,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers final public class SDKBR {
-  public static func message(_ text: Swift.String)
+  public static func messageGeneral(_ text: Swift.String)
   public static func messageA(_ text: Swift.String)
   public static func messageB(_ text: Swift.String)
   public static func messageC(_ text: Swift.String)
