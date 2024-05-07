@@ -77,34 +77,6 @@
           },
           {
             "kind": "Function",
-            "name": "messageB",
-            "printedName": "messageB(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:6SDK_BR5SDKBRC8messageByySSFZ",
-            "mangledName": "$s6SDK_BR5SDKBRC8messageByySSFZ",
-            "moduleName": "SDK_BR",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "messageC",
             "printedName": "messageC(_:)",
             "children": [
@@ -127,7 +99,8 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
